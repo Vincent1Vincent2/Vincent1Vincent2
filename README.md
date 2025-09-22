@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-- 👨‍💻 I’m currently studing to become a Front End Developer
-- 🌱 I’m currently interested in Next.js, SpotifyAPI and Secure Web Solutions
-- 🤔 I’m looking for help with Next.js, Svelte and React Native
+- 👨‍💻 I’m to become a Full stack Developer
+- 🌱 I’m currently interested in PHP, Wordpress, Next.js and Secure Web Solutions
 - 💬 Ask me about anything!
-- ⚡ Fun fact: I make music, small art sculptures and do wood working.
+- ⚡ Fun fact: I make music, sculptures and wood working.
 
 ### Things i know: 
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
 ![JavaScript-Icon](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript-Icon](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js-Icon](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
