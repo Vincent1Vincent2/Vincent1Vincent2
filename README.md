@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 👨‍💻 I’m to become a Full stack Developer
-- 🌱 I’m currently interested in PHP, Wordpress, Next.js and Secure Web Solutions
+- 👨‍💻 I’m a Full stack Developer
+- 🌱 I’m currently interested in PHP, Python, Next.js and Secure Web Solutions
 - 💬 Ask me about anything!
-- ⚡ Fun fact: I make music, sculptures and wood working.
+- ⚡ Fun fact: I make music, sculptures and wood do working.
 
 ### Things i know: 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
