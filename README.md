@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 👨‍💻 I’m a Full stack Developer
-- 🌱 I’m currently interested in PHP, Python, Next.js and Secure Web Solutions
-- 💬 Ask me about anything!
-- ⚡ Fun fact: I make music, sculptures and wood do working.
+- 🌱 I’m currently interested in System intigration, PHP, Python and RaspberryPi's
+- 💬 Latest projects @ https://vincent1vincent2.github.io/vincent-ahlin/
+
 
 ### Things i know: 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
